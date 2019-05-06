@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_action_view">
+    <sys_ui_action_view action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_ui_action_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-02 14:45:50</sys_created_on>
+        <sys_id>78f8ebf1db647300e2b69c66db9619e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create reservation.Self Service</sys_name>
+        <sys_package display_value="HOTEL" source="x_44443_hotel">3b4fb09fdb9b2300e2b69c66db961995</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HOTEL">3b4fb09fdb9b2300e2b69c66db961995</sys_scope>
+        <sys_ui_action display_value="Create reservation">68586735db647300e2b69c66db9619b1</sys_ui_action>
+        <sys_ui_view display_value="Self Service" name="ess">427c307365022300aadb05e0fb3edf5a</sys_ui_view>
+        <sys_update_name>sys_ui_action_view_78f8ebf1db647300e2b69c66db9619e8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-02 14:45:50</sys_updated_on>
+        <visibility>include</visibility>
+    </sys_ui_action_view>
+</record_update>

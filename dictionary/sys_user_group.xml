@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="all_tables.text_index_translations=true,iterativeDelete=true" defaultsort="-1" label="Group" max_length="40" name="sys_user_group" text_index="true" type="collection">
+        <element label="Maintenance" max_length="40" name="x_44443_hotel_maintenance" type="boolean"/>
+    </element>
+</database>

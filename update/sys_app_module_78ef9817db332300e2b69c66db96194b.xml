@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Maintenance">fcef9817db332300e2b69c66db961948</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Maintenances</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_44443_hotel_maintenance</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_44443_hotel.maintenance_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-28 09:11:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>78ef9817db332300e2b69c66db96194b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Maintenances</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="HOTEL" source="x_44443_hotel">3b4fb09fdb9b2300e2b69c66db961995</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HOTEL">3b4fb09fdb9b2300e2b69c66db961995</sys_scope>
+        <sys_update_name>sys_app_module_78ef9817db332300e2b69c66db96194b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-11 14:56:18</sys_updated_on>
+        <timeline_page/>
+        <title>Maintenances</title>
+        <u_group display_value="Maintenance" name="Maintenance">6ee93cd3db732300e2b69c66db9619d5</u_group>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

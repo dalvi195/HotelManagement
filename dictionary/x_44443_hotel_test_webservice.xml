@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Test_webService" max_length="40" name="x_44443_hotel_test_webservice" type="collection">
+        <element attributes="import_attribute_name=u_comments,edge_encryption_enabled=true" label="Comments" max_length="40" name="u_comments" type="string"/>
+        <element attributes="import_attribute_name=u_date,edge_encryption_enabled=true" label="Date" max_length="40" name="u_date" type="string"/>
+        <element attributes="import_attribute_name=u_guest,edge_encryption_enabled=true" label="Guest" max_length="40" name="u_guest" type="string"/>
+        <element attributes="import_attribute_name=u_room,edge_encryption_enabled=true" label="Room" max_length="40" name="u_room" type="string"/>
+    </element>
+</database>
